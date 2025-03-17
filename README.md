@@ -1,6 +1,6 @@
 ## 个人主页
 
-预览地址：[https://linyuqi00.github.io/linyuqi.github.io/](https://linyuqi00.github.io/linyuqi.github.io/)
+预览地址：[https://linyuqi00.github.io/home/](https://linyuqi00.github.io/home/)
 
 ## 集成插件
 
